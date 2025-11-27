@@ -1,0 +1,8 @@
+pandas
+numpy
+pyreadstat
+statsmodels
+pyarrow
+matplotlib
+pymc
+arviz
